@@ -56,6 +56,6 @@ The training process was optimized using a custom **Callback** to stop training 
 └── README.md
 
 
+```
 ---
 **Developed by Devin Novansyah**  
-*Informatics Engineering Student at Universitas Mercu Buana*
