@@ -55,7 +55,7 @@ The training process was optimized using a custom **Callback** to stop training 
 ├── requirements.txt         # List of dependencies
 └── README.md
 
-#Developed by Devin Novansyah
-├── notebook.ipynb           # Main implementation notebook
-├── requirements.txt         # List of dependencies
-└── README.md
+
+---
+**Developed by Devin Novansyah**  
+*Informatics Engineering Student at Universitas Mercu Buana*
